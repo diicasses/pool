@@ -30,31 +30,25 @@
     },
     "my-pool-ids": {
         "0": "pool1h0v99elmvl50rqk778ue6g49r3mtgq3z4draq6pzy0nqv000frd",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-    },
-    "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-    },
-    "telegram-admin-handle": {
-        "0": "mnmnmnmnnmn"
+        "1": "bbd852e7fb67e8f182def1f99d22a51c76b40222ab47d0682223e606"
+ 
     },
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "relay 1 eu",
+                "name": "relay 1",
                 "type": "relay",
                 "key": "example_get_own_on_adapools.org/connect"
             },
             "1": {
-                "name": "relay 2 usa",
+                "name": "relay 2",
                 "type": "relay",
                 "key": "example_get_own_on_adapools.org/connect"
             },
             "2": {
                 "name": "block producer home",
                 "type": "bp",
-                "key": "example_get_own_on_adapools.org/connect"
+                "key": "54f6f97fa4a5a4e1b88c445f4a2a2554"
             }
         }
     }
