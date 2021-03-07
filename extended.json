@@ -1,0 +1,61 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/diicasses/pool/main/anti.biz_skull_40x40.png",
+        "url_png_logo": "https://raw.githubusercontent.com/diicasses/pool/main/anti.biz_skull_50x50.png",
+        "location": "Ione, Body Island",
+        "social": {
+            "twitter_handle": "antibiz_",
+            "telegram_handle": "https://t.me/skull_pool",
+            "facebook_handle": "anti.biz",
+            "youtube_handle": "antibiz",
+            "twitch_handle": "antibiz",
+            "discord_handle": "https://discord.gg/eBaHEhF",
+            "github_handle": "diicasses"
+        },
+        "company": {
+            "name": "ANTI.BIZ",
+            "addr": "P.O BOX 4988",
+            "city": "Philadelphia, PA",
+            "country": "United States",
+            "company_id": "123456789",
+            "vat_id": "GB123456789"
+        },
+        "about": {
+            "me": "Just a crazy skeleton hacker from the year 2227",
+            "server": "4x Ubuntu 20.04 LTS servers running in Amazon AWS",
+            "company": "Amazon"
+        },
+        "rss": "https://feeds.feedburner.com/antibiz"
+    },
+    "my-pool-ids": {
+        "0": "pool1h0v99elmvl50rqk778ue6g49r3mtgq3z4draq6pzy0nqv000frd",
+        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+    },
+    "when-satured-then-recommend": {
+        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+    },
+    "telegram-admin-handle": {
+        "0": "mnmnmnmnnmn"
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "relay 1 eu",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "1": {
+                "name": "relay 2 usa",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "2": {
+                "name": "block producer home",
+                "type": "bp",
+                "key": "example_get_own_on_adapools.org/connect"
+            }
+        }
+    }
+}
