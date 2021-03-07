@@ -1,25 +1,21 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/diicasses/pool/main/anti.biz_skull_40x40.png",
         "url_png_logo": "https://raw.githubusercontent.com/diicasses/pool/main/anti.biz_skull_50x50.png",
         "location": "Ione, Body Island",
         "social": {
+            "instagram_handle": "anti.biz",
+            "discord_handle": "https://discord.gg/eBaHEhF",
+            "reddit_handle": "https://www.reddit.com/user/antibiz/",
             "twitter_handle": "antibiz_",
             "telegram_handle": "https://t.me/skull_pool",
             "facebook_handle": "anti.biz",
             "youtube_handle": "antibiz",
             "twitch_handle": "antibiz",
-            "discord_handle": "https://discord.gg/eBaHEhF",
             "github_handle": "diicasses"
         },
         "company": {
             "name": "ANTI.BIZ",
-            "addr": "P.O BOX 4988",
-            "city": "Philadelphia, PA",
-            "country": "United States",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
         },
         "about": {
             "me": "Just a crazy skeleton hacker from the year 2227",
