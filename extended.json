@@ -38,12 +38,12 @@
             "0": {
                 "name": "relay 1",
                 "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
+                "key": "27a2d43715da5ea80e8bcd05a7557125"
             },
             "1": {
                 "name": "relay 2",
                 "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
+                "key": "a32a32f05fe10820108ef09484bd4b42"
             },
             "2": {
                 "name": "block producer home",
