@@ -8,10 +8,10 @@
             "discord_handle": "https://discord.gg/eBaHEhF",
             "reddit_handle": "https://www.reddit.com/user/antibiz/",
             "twitter_handle": "antibiz_",
-            "telegram_handle": "https://t.me/skull_pool",
             "facebook_handle": "anti.biz",
             "youtube_handle": "antibiz",
             "twitch_handle": "antibiz",
+            "telegram_handle": "https://t.me/skull_pool",
             "github_handle": "diicasses"
         },
         "company": {
@@ -42,7 +42,7 @@
                 "key": "a32a32f05fe10820108ef09484bd4b42"
             },
             "2": {
-                "name": "block producer home",
+                "name": "block producer",
                 "type": "bp",
                 "key": "54f6f97fa4a5a4e1b88c445f4a2a2554"
             }
