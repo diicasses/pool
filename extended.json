@@ -22,6 +22,7 @@
             "server": "4x Ubuntu 20.04 LTS servers running in Amazon AWS",
             "company": "Amazon"
         },
+             {
         "rss": "https://feeds.feedburner.com/antibiz"
     },
     "my-pool-ids": {
@@ -45,7 +46,7 @@
                 "name": "block producer",
                 "type": "bp",
                 "key": "54f6f97fa4a5a4e1b88c445f4a2a2554"
-            }
+           
         }
     }
 }
