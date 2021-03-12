@@ -31,17 +31,17 @@
             "0": {
                 "name": "relay 1",
                 "type": "relay",
-                "key": "27a2d43715da5ea80e8bcd05a7557125"
+                "key": ""
             },
             "1": {
                 "name": "relay 2",
                 "type": "relay",
-                "key": "a32a32f05fe10820108ef09484bd4b42"
+                "key": ""
             },
             "2": {
                 "name": "block producer",
                 "type": "bp",
-                "key": "54f6f97fa4a5a4e1b88c445f4a2a2554"
+                "key": ""
               }
           }
        }
