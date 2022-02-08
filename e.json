@@ -18,7 +18,7 @@
             "name": "$SKULL"
         },
         "about": {
-            "me": "$SKULL token was created to act as a utility token within a closed self-sustaining ecosystem driven by the nemonium spirit of the Cardano community. This stakepool helps and supports the growth and decentralization of the Cardano ecosystem. This stakepool is a collaboration between nemo.global & anti.biz providing safe, secure and reliable staking for the delegators",
+            "me": "$SKULL token was created to act as a utility token within a closed self-sustaining ecosystem driven by the nemonium spirit of the Cardano community. This stakepool helps and supports the growth and decentralization of the Cardano ecosystem. This stakepool is a collaboration between nemo.global & anti.biz providing safe, secure and reliable staking for the delegators.",
             "server": "2x Ubuntu 21.04 servers 32 gig ram, 6 core Ryzen 5 3500x",
             "company": "https://nemo.global/"
     },
