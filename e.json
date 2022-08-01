@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/diicasses/pool/master/skull_64x64.png",
-        "url_png_logo": "https://raw.githubusercontent.com/diicasses/pool/master/skull.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/diicasses/pool/master/nemo_64x69.png",
+        "url_png_logo": "https://raw.githubusercontent.com/diicasses/pool/master/nemo_520x569.png",
         "location": "Metaverse",
         "social": {
             "instagram_handle": "",
@@ -19,7 +19,7 @@
         },
         "about": {
             "me": "$SKULL token was created to act as a utility token within a closed self-sustaining ecosystem driven by the nemonium spirit of the Cardano community. This stakepool supports the growth and decentralization of the Cardano ecosystem. This stakepool is a collaboration between nemo.global & anti.biz providing safe, secure and reliable staking for the delegators.",
-            "server": "4x Ubuntu 20.04 servers 30 gig ram, 8 core cpu",
+            "server": "3x Ubuntu 20.04 servers 30 gig ram, 8 core cpu",
             "company": "https://nemo.global/"
     },
     "my-pool-ids": {
